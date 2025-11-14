@@ -4,7 +4,7 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Registration\nThank you for your interest in our workshop!\nPlease complete your registration at the link below:\n👉 Click here to register via Google Form"
+    "text": "Registration\nThank you for your interest in our workshop!\nPlease complete your registration at the link below:\n👉 Click here to register via Google Form\nIf you come across any issues with the registation or the website, please email:\nJiani Jin: jjin1234@umd.edu\nXiaolan Gabi Gu: xgu2025@umd.edu"
   },
   {
     "objectID": "index.html",
@@ -18,7 +18,7 @@
     "href": "index.html#goals",
     "title": "About Our Workshop",
     "section": "Goals:",
-    "text": "Goals:\nBy the end of this workshop, you will:\nUse R Studio to develop and execute code that can analyze your data\nUse R to assist you in cleaning your data for analysis\nUse R to render publishable quality visualizations of your data\nUtilize the help features in R to troubleshoot your R code\nDraw on open source and publicly available resources to troubleshoot R code to meet your data analysis needs"
+    "text": "Goals:\nBy the end of this workshop, you will:\n• Use R Studio to develop and execute code that can analyze your data\n• Use R to assist you in cleaning your data for analysis\n• Use R to render publishable quality visualizations of your data\n• Utilize the help features in R to troubleshoot your R code\n• Draw on open source and publicly available resources to troubleshoot R code to • meet your data analysis needs"
   },
   {
     "objectID": "index.html#dates-and-time",
@@ -46,7 +46,7 @@
     "href": "index.html#schedule",
     "title": "About Our Workshop",
     "section": "Schedule:",
-    "text": "Schedule:\nDay 1 Morning:\nAn Overview of R\n• Basics in R\n\n\n-Working Directory\n-Packages\n-Importing and Exporting Data\n-Data Types\n-Data Frames\n\nDay 1 Evening:\n• Descriptive Statistics in R\n\n\nmean, standard deviation, confidence intervals and more\nDescriptives by groups\n\nDay 2 Morning:\n• Data Wrangling\n\n\nA reproducible data processing pipeline for yourself and for Open Science\nUseful packages for data wrangling\nSelect, filter, combine, reformat and more\n\nDay 2 Evening:\n• Data Visualization using ggplot2\n\n\nScatter plots\nLine graphs for group comparisons and more"
+    "text": "Schedule:\nDay 1 Morning:\nAn Overview of R\n• Basics in R\n\n\n-Working Directory\n-Packages\n-Importing and Exporting Data\n-Data Types\n-Data Frames\n\nDay 1 Evening:\n• Descriptive Statistics in R\n\n\n-mean, standard deviation, confidence intervals and more\n-Descriptives by groups\n\nDay 2 Morning:\n• Data Wrangling\n\n\n-A reproducible data processing pipeline for yourself and for Open Science\n-Useful packages for data wrangling\n-Select, filter, combine, reformat and more\n\nDay 2 Evening:\n• Data Visualization using ggplot2\n\n\n-Scatter plots\n-Line graphs for group comparisons and more"
   },
   {
     "objectID": "index.html#materials",
@@ -60,21 +60,7 @@
     "href": "aboutus.html",
     "title": "About Us",
     "section": "",
-    "text": "Xiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics.\n\n\n\n\nJiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R.\n\n\n\n\nManizha is an MA student in the Second Language Acquisition program at the University of Maryland. Her research focuses on how cross-script variation and orthographic transparency between Tajiki (Cyrillic) and Farsi (Perso-Arabic) shape second language acquisition and reading development among heritage and L1 English learners."
-  },
-  {
-    "objectID": "aboutus.html#xiaolan-gabi-gu",
-    "href": "aboutus.html#xiaolan-gabi-gu",
-    "title": "About Us",
-    "section": "",
-    "text": "Xiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics."
-  },
-  {
-    "objectID": "aboutus.html#jiani-jin",
-    "href": "aboutus.html#jiani-jin",
-    "title": "About Us",
-    "section": "",
-    "text": "Jiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R."
+    "text": "Manizha is an MA student in the Second Language Acquisition program at the University of Maryland. Her research focuses on how cross-script variation and orthographic transparency between Tajiki (Cyrillic) and Farsi (Perso-Arabic) shape second language acquisition and reading development among heritage and L1 English learners.\n\n\n\n\nJiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R.\n\n\n\n\nXiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics.\n\n\n\n\nRanda Saleh Alharbi is from Saudi Arabia and is pursuing her PhD in Second Language Acquisition at the University of Maryland, College Park. She is interested in virtual reality in language learning. She holds a Master’s degree from New Zealand, where she received the Best Master’s Thesis in Applied Linguistics Award, along with a Higher Diploma in Counseling and Guidance and degrees in English Language and Education. She has worked as an English teacher and gifted student supervisor in Saudi Arabia, supporting participation in international competitions such as ISEF and TISEF, and collaborated with the New Zealand Police on programs supporting international students"
   },
   {
     "objectID": "aboutus.html#manizha-davlatova",
@@ -84,10 +70,31 @@
     "text": "Manizha is an MA student in the Second Language Acquisition program at the University of Maryland. Her research focuses on how cross-script variation and orthographic transparency between Tajiki (Cyrillic) and Farsi (Perso-Arabic) shape second language acquisition and reading development among heritage and L1 English learners."
   },
   {
+    "objectID": "aboutus.html#jiani-jin",
+    "href": "aboutus.html#jiani-jin",
+    "title": "About Us",
+    "section": "",
+    "text": "Jiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R."
+  },
+  {
+    "objectID": "aboutus.html#xiaolan-gabi-gu",
+    "href": "aboutus.html#xiaolan-gabi-gu",
+    "title": "About Us",
+    "section": "",
+    "text": "Xiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics."
+  },
+  {
+    "objectID": "aboutus.html#randa-alharbi",
+    "href": "aboutus.html#randa-alharbi",
+    "title": "About Us",
+    "section": "",
+    "text": "Randa Saleh Alharbi is from Saudi Arabia and is pursuing her PhD in Second Language Acquisition at the University of Maryland, College Park. She is interested in virtual reality in language learning. She holds a Master’s degree from New Zealand, where she received the Best Master’s Thesis in Applied Linguistics Award, along with a Higher Diploma in Counseling and Guidance and degrees in English Language and Education. She has worked as an English teacher and gifted student supervisor in Saudi Arabia, supporting participation in international competitions such as ISEF and TISEF, and collaborated with the New Zealand Police on programs supporting international students"
+  },
+  {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Workshop Materials",
     "section": "",
-    "text": "Workshop Materials\nCourse materials can be downloadable here.\nWe will provide:\n- Workshop slides\n- Example R scripts\n- Practice data files\n- Additional reading resources"
+    "text": "Workshop Materials\nCourse materials can be downloadable here.\n(Files coming soon: the materials can be accessible one week before the workshop date!)\nWe will provide:\n- Workshop slides\n- Example R scripts\n- Practice data files\n- Additional reading resources"
   }
 ]
