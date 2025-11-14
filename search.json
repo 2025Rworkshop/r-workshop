@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration\nThank you for your interest in our workshop!\nPlease complete your registration at the link below:\n👉 Click here to register via Google Form"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Our Workshop",
+    "section": "",
+    "text": "Welcome to our R workshop designed for applied linguistics researchers and students!\nThis event aims to share knowledge, build community, and empower researchers to use R in their own work."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Our Workshop",
+    "section": "Goals:",
+    "text": "Goals:\nBy the end of this workshop, you will:\nUse R Studio to develop and execute code that can analyze your data\nUse R to assist you in cleaning your data for analysis\nUse R to render publishable quality visualizations of your data\nUtilize the help features in R to troubleshoot your R code\nDraw on open source and publicly available resources to troubleshoot R code to meet your data analysis needs"
+  },
+  {
+    "objectID": "index.html#dates-and-time",
+    "href": "index.html#dates-and-time",
+    "title": "About Our Workshop",
+    "section": "Dates and Time:",
+    "text": "Dates and Time:\nDecember 13-14, 2025 (Sat-Sun)\n8-10 am/pm (US Eastern Time)\nThere are a total four 2-hour sessions. Morning sessions run from 8 am-10 am, and evening sessions run from 8 pm-10 pm."
+  },
+  {
+    "objectID": "index.html#format",
+    "href": "index.html#format",
+    "title": "About Our Workshop",
+    "section": "Format:",
+    "text": "Format:\nFully online via Zoom (synchronous)"
+  },
+  {
+    "objectID": "index.html#fees",
+    "href": "index.html#fees",
+    "title": "About Our Workshop",
+    "section": "Fees:",
+    "text": "Fees:\nThe workshop itself is free. But, we ask that participants donate no less than US$30 (or an equivalent amount in any local currency) to a charitable organization of your choice. It can be a church, a food bank, a charity. All registrants will be asked to upload a receipt of their donation before we confirm your registration."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "About Our Workshop",
+    "section": "Schedule:",
+    "text": "Schedule:\nDay 1 Morning:\nAn Overview of R\n• Basics in R\n\n\n-Working Directory\n-Packages\n-Importing and Exporting Data\n-Data Types\n-Data Frames\n\nDay 1 Evening:\n• Descriptive Statistics in R\n\n\nmean, standard deviation, confidence intervals and more\nDescriptives by groups\n\nDay 2 Morning:\n• Data Wrangling\n\n\nA reproducible data processing pipeline for yourself and for Open Science\nUseful packages for data wrangling\nSelect, filter, combine, reformat and more\n\nDay 2 Evening:\n• Data Visualization using ggplot2\n\n\nScatter plots\nLine graphs for group comparisons and more"
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "About Our Workshop",
+    "section": "Materials:",
+    "text": "Materials:\nWe will take advantage of open data and code generously shared by researchers in the field. So, we will be playing with data that we have good background knowledge. Participants can also read the publication(s) associated with the data ahead of time to familiarize themselves with the context. Additional code used in the workshop will be made available on this website as well.\n\n\nQuick Links\n\n📋 Register Here\n💻 Workshop Materials"
+  },
+  {
+    "objectID": "aboutus.html",
+    "href": "aboutus.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Xiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics.\n\n\n\n\nJiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R.\n\n\n\n\nManizha is an MA student in the Second Language Acquisition program at the University of Maryland. Her research focuses on how cross-script variation and orthographic transparency between Tajiki (Cyrillic) and Farsi (Perso-Arabic) shape second language acquisition and reading development among heritage and L1 English learners."
+  },
+  {
+    "objectID": "aboutus.html#xiaolan-gabi-gu",
+    "href": "aboutus.html#xiaolan-gabi-gu",
+    "title": "About Us",
+    "section": "",
+    "text": "Xiaolan Gabi Gu is a Ph.D. student in a joint Ph.D. program between Ocean University of China and the University of Maryland. She employs psycholinguistic methods and cognitive measures, including reaction times and event-related potentials, to investigate how L2 English and L1 Chinese are represented in the bilingual mind. Her research interests include bilingual processing, emotionality in mental lexicon, and second language acquisition. She uses R for behavioral data analysis. Her work has appeared or will appear in International Journal of Bilingual Education and Bilingualism, International Journal of Applied Linguistics, Philosophical Psychology, Frontiers in Psychology, Journal of English as a Lingua Franca, and four other Chinese journals. She is currently leading three funded projects supported by Ocean University of China, the Fundamental Research Funds for the Central Universities, and China Scholarship Council. Xiaolan also serves as an ad hoc reviewer for International Journal of Applied Linguistics."
+  },
+  {
+    "objectID": "aboutus.html#jiani-jin",
+    "href": "aboutus.html#jiani-jin",
+    "title": "About Us",
+    "section": "",
+    "text": "Jiani Jin is a MA student in Second Language Acquisition Program at University of Maryland, College Park， and a member of Maryland Language Science Center. Her research interests include psycholinguistics and statistical modeling. She increasingly incorporates quantitative methods and open-science practices into her research and is experienced with basic statistical analysis and data processing in R."
+  },
+  {
+    "objectID": "aboutus.html#manizha-davlatova",
+    "href": "aboutus.html#manizha-davlatova",
+    "title": "About Us",
+    "section": "",
+    "text": "Manizha is an MA student in the Second Language Acquisition program at the University of Maryland. Her research focuses on how cross-script variation and orthographic transparency between Tajiki (Cyrillic) and Farsi (Perso-Arabic) shape second language acquisition and reading development among heritage and L1 English learners."
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Workshop Materials",
+    "section": "",
+    "text": "Workshop Materials\nCourse materials can be downloadable here.\nWe will provide:\n- Workshop slides\n- Example R scripts\n- Practice data files\n- Additional reading resources"
+  }
+]
